@@ -8,10 +8,10 @@
         Console.WriteLine("Vælg en af de nederstående muligheder \n");
 
         //Menu options
-        Console.WriteLine("Mulighed 1");
-        Console.WriteLine("Mulighed 2");
-        Console.WriteLine("Mulighed 3");
-        Console.WriteLine("Mulighed 4");
+        Console.WriteLine("Mulighed 1 \n" + "Mulighed 2 \n" + "Mulighed 3 \n" + "Mulighed 4 \n");
+        //Console.WriteLine("Mulighed 2");
+        //Console.WriteLine("Mulighed 3");
+        //Console.WriteLine("Mulighed 4");
 
         Console.WriteLine("Hvad vil du vælge: ");
 
